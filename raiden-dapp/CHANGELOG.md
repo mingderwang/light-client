@@ -10,6 +10,7 @@
 
 ### Fixed
 
+- [#1788] Bug where button is displayed and modal not closing on UDC withdrawal
 - [#1783] Minor visual alignments
 - [#1579] Removes minting references when detected network is mainnet.
 - [#1756] Fix non-informative error message on SDK's wrapped errors
@@ -18,6 +19,7 @@
 - [#1610] Adds alderaan compatibility.
 - [#1540] Adds title to channels list to clarify that only channels for the selected token display.
 
+[#1788]: https://github.com/raiden-network/light-client/issues/1788
 [#1783]: https://github.com/raiden-network/light-client/issues/1783
 [#1756]: https://github.com/raiden-network/light-client/issues/1756
 [#1610]: https://github.com/raiden-network/light-client/issues/1610
